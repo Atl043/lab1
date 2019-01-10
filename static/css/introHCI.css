@@ -36,9 +36,18 @@ body {
 	background-color: gray;
      margin-left: 20px;
 }
+#testImage .thumbnail{
+	width:20%;
+	height:20%;
+	border: 1px solid #434343
+}
+#testImage p {
+	/* Colors are in hexadecimal: http://www.colorpicker.com/ */
+	color: #CC00AA;
+}
 img .thumbnail{
-	width:50px;
-	height:100px;
+	width:50%;
+	height:50%;
 	border: 1px solid #434343
 }
 .contact-info{
